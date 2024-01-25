@@ -7,3 +7,4 @@ const myAge = 33
 const showMeTheConsole = (input) => {
     console.log(input)
 }
+const showMyAge = (age) => console.log(age)
